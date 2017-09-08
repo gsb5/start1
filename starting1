@@ -15,7 +15,3 @@ input[type=submit],
             cursor: hand;
         }
         
-        input[type=checkbox],
-        select {
-            color: green;
-        }
