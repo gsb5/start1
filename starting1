@@ -1,0 +1,21 @@
+input[type=submit],
+        select {
+            width: 50%;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 12px 20px;
+            margin: 10% 0;
+            border: 1px solid blueviolet;
+            border-radius: 4px;
+            box-sizing: border-box;
+            background: blueviolet;
+            text-align: center;
+            font: bold 20px Verdana;
+            color: white;
+            cursor: hand;
+        }
+        
+        input[type=checkbox],
+        select {
+            color: green;
+        }
